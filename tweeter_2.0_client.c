@@ -31,8 +31,6 @@ int main(int argc, char* argv[]){
     char mode;
     int max_num_of_tweets = 0;
     int i = 0;
-    int j;
-
 
     struct shmid_ds shm_info;
     printf("Twitter 2.0 wita!\n");
